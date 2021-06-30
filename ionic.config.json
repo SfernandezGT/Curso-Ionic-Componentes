@@ -1,9 +1,6 @@
 {
-  "name": "componentes",
+  "name": "03-componentes",
   "integrations": {
-    "capacitor": {
-      "enabled": false
-    },
     "cordova": {}
   },
   "type": "angular"
